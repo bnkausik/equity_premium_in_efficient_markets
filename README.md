@@ -1,4 +1,4 @@
-This git contains the code to replicate the results in the paper
+This git contains the code to replicate the results in the paper "Equity Premium in Efficient Markets"
 
 python max_vol.py : for the years 1889-1970 with data from Mehra and Prescott
 
